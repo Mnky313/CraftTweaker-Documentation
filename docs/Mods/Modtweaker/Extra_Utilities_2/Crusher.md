@@ -8,7 +8,7 @@ You can call the Crusher package using `mods.extrautils2.Crusher`
 ## Removing
 
 ```zenscript
-//mods.extrautils2.Crusher.remove(IItemStack outout);
+//mods.extrautils2.Crusher.remove(IItemStack input);
 mods.extrautils2.Crusher.remove(<minecraft:redstone>);
 ```
 
